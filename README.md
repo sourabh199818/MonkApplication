@@ -20,7 +20,7 @@ Setup Instructions
 
 Clone the repo:
 
-git clone https://github.com/your-repo/coupon-service.git
+[git clone https://github.com/your-repo/coupon-service.git](https://github.com/sourabh199818/MonkApplication/tree/main)
 cd coupon-service
 
 
